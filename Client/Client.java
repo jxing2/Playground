@@ -3,8 +3,6 @@ import java.io.*;
 
 import javax.swing.*;
 
-import Server.Server;
-
 import java.awt.*;
 import java.awt.event.*;
 import java.net.*;
